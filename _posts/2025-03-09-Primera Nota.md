@@ -1,6 +1,8 @@
 ---
 share: true
 title: Primera Nota
+layout: post
+author: Carlos Ardila
 date: 2025-03-09
 filename: primeranota
 tags:
